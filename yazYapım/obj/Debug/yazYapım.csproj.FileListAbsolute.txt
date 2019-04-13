@@ -1,0 +1,67 @@
+C:\Users\ayse\Desktop\yazYapım\yazYapım\bin\Debug\yazYapım.exe.config
+C:\Users\ayse\Desktop\yazYapım\yazYapım\bin\Debug\yazYapım.exe
+C:\Users\ayse\Desktop\yazYapım\yazYapım\bin\Debug\yazYapım.pdb
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.csprojResolveAssemblyReference.cache
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.form_proje.resources
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.Properties.Resources.resources
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.csproj.GenerateResource.Cache
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.exe
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.pdb
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.form_anasayfa.resources
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.form_story.resources
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.exe.licenses
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\yazYapım.exe.config
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\obj\Debug\yazYapım.csprojAssemblyReference.cache
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\obj\Debug\yazYapım.form_anasayfa.resources
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\obj\Debug\yazYapım.form_proje.resources
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\obj\Debug\yazYapım.form_story.resources
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\obj\Debug\yazYapım.Properties.Resources.resources
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\obj\Debug\yazYapım.csproj.GenerateResource.cache
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\yazYapım.exe
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\yazYapım.pdb
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\obj\Debug\yazYapım.csproj.CoreCompileInputs.cache
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\obj\Debug\yazYapım.csproj.CopyComplete
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\obj\Debug\yazYapım.exe
+C:\Users\Ayse\Desktop\Üniversite\2.Sınıf\2.DONEM\projeler\Yapım Ödevi\Proje-yazYapım\yazYapım\obj\Debug\yazYapım.pdb
